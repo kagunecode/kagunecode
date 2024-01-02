@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Currently working on Web Design projects and courses to build amazing websites!<br>🏫 I'm learning everything about basic web dev languages, while also learning some more advanced stuff like frameworks<br>🐍 I've worked on Python, C++, C, Matlab and others<br>👨‍🎓 I'll be graduating on December 1st 2023 from Electronic Engineering<br>💪 I'm a strong self-learner, and in fact, I've learned most programming on my own. I also learned English totally by myself<br>⚒️ I'm looking to use the knowledge I have into real-world applications<br>
+🧑‍💻 Currently working on Web Design projects to build amazing websites!<br>🏫 Currently working with 3D tools like Three.js to create unique experiences<br>🐍 I've worked on Python, C++, C, Matlab and others<br>💪 I'm a strong self-learner, and in fact, I've learned most programming on my own. I also learned English totally by myself<br>⚒️ I'm looking to use the knowledge I have into real-world applications<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kagunecode&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
